@@ -1,0 +1,16 @@
+1. install python 3.9/ latest version of IDLE through www.python.org
+install libraries through  cmd
+2. pip install numpy 
+3. pip install matplotlib
+4. pip install keras
+5. pip install tensorflow
+6. pip install jupyter 
+7. pip install pandas
+8. pip install scipy
+9. pip install sklearn
+
+Libraries are numpy, matplotlib, pandas,keras,tensorflow, scipy,sklearn
+
+Note book Jupyter Notebook
+
+open jupyter : open cmd -> jupyter notebook
